@@ -1,2 +1,2 @@
-# maurinhu98.github.io
-Meu site
+# Caneca 3D
+<iframe width="640" height="480" style="border:1px solid #eeeeee;" src="https://3dviewer.net/embed.html#model=https://raw.githubusercontent.com/Maurinhu98/Teste-de-Amostras/main/CANECA.obj,https://raw.githubusercontent.com/Maurinhu98/Teste-de-Amostras/main/CANECA.mtl,//raw.githubusercontent.com/Maurinhu98/Teste-de-Amostras/main/lutz.jpg$camera=-2.01711,3.69875,4.46137,0.00000,1.00926,0.42714,0.00000,1.00000,0.00000$envsettings=fishermans_bastion,off$backgroundcolor=42,43,46$defaultcolor=200,200,200$edgesettings=off,0,0,0,1"></iframe>
